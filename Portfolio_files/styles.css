@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(204, 194, 171);
+   padding-left: 20%;
+   padding-right: 20%;
+}
+.flex{
+    display: flex;
+    column-gap: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.image{
+    width: 45%;
+    height: 45%;
+    margin-left: 10%;
+    
+}
+.detaill{
+text-align: center;
+}
+#hobby{
+text-align: center;
+}
+#about{
+    text-align: center;
+}
+ls{
+    font-family:'Courier New', Courier, monospace;
+}
+.home{
+    display: flex;
+    column-gap: 15%;
+}
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.skills{
+    margin-left: 20%;
+}
+
